@@ -1,5 +1,5 @@
 # cse210-tc03
 
-# Catalina Petcu 
+# Nowami Moyo
 #
-# I am from Cluj-Napoca, Romania, but will be living in Prague for the next few months. I am excited about our new semester and working with Git. I love reading and learning new things. 
+# Hi All my name is Nowami Moyo, I am from Johannesburg South Africa, I was originally born in Zimbabwe. This is my second year at BYU-I, most of the work I have do so far has been related to web design. I am looking forward to learning with you all.
